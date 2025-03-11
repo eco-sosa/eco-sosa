@@ -1,4 +1,4 @@
-Hi there 👋 I am Brandon Sosa, PhD student in the [Tropical Fish Ecology Lab]([url](https://www.tropicalfishecologylab.com/)) @ FIU (he/him)
+Hi there 👋 I am Brandon Sosa, PhD student in the [Tropical Fish Ecology Lab](https://www.tropicalfishecologylab.com/) @ FIU (he/him)
 
 My research focuses on grazer stocking to support coral reef restoration, exploring how invertebrate grazers like urchins and crabs can help control algal overgrowth and enhance reef recovery.
 
