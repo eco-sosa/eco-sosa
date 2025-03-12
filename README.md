@@ -11,7 +11,6 @@ My research focuses on grazer stocking to support coral reef restoration, explor
 
 🌊 Social Surveys & Stakeholder Engagement – Understanding public perceptions and management considerations for large-scale grazer stocking.
 
-🏝 Coastal Resource Management – Bridging science and policy for sustainable reef conservation.
 
 <!--
 **eco-sosa/eco-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
